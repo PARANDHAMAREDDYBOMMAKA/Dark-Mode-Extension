@@ -1,0 +1,14 @@
+html.dark-mode, body.dark-mode {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+  }
+  
+  img, video {
+    filter: brightness(0.8);
+  }
+  
+  /* Links and buttons */
+  a, button {
+    color: #bb86fc !important;
+  }
+  
